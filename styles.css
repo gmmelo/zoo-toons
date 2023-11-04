@@ -1,10 +1,27 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url('forestbg.webp'); /* Replace 'your-image.jpg' with your image file path */
+    width: 100%;
+    background-image: url('forestbg.webp');
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
+}
+
+.logo {
+    width: 200px;
+    height: 200px;
+}
+
+.image-with-border {
+    border: 5px solid #000;
+    
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
 }
