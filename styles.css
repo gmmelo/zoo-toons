@@ -39,7 +39,7 @@ nav > ul {
     justify-content: center;
 }
 
-ul > li {
+nav > ul > li {
     margin-left: 10px;
     margin-right: 10px;
 }
