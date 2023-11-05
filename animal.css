@@ -41,3 +41,9 @@ div.container {
     display: inline-block;
     text-align: left;
   }
+
+  .audio-div {
+    width: 100%;
+    display: flex;  
+    justify-content: center;
+  }
