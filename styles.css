@@ -63,3 +63,22 @@ p {
     height: 100px;
     margin: 0 20px;
 }
+
+.about-title{
+    text-align: center;
+}
+
+.mission-statement{
+    text-align: center;
+}
+
+.help{
+    text-align: center;
+    background-color: white;
+    color: #539e8a;
+    font-size: 17px;
+    margin-left: 5em;
+    margin-top: -2em;
+    padding: 10px 20px; 
+    text-decoration: none;
+}
