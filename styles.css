@@ -70,6 +70,8 @@ p {
 
 .mission-statement{
     text-align: center;
+    margin-left: 10em;
+    margin-right: 10em;
 }
 
 .help-button {
@@ -82,3 +84,4 @@ p {
     flex-direction: column;
     align-items: center;
 }
+
