@@ -19,6 +19,14 @@ class ZooToonsNavbar extends HTMLElement {
             nav > ul > li {
                 margin: 1rem 0.5rem;
             }
+
+            a {
+                color: green;
+            }
+
+            a:visited {
+                color: dark-green;
+            }
         
         </style>
         <nav>
