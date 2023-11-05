@@ -26,6 +26,8 @@ p{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: -5em;
+    margin-bottom: -5em;
     width: 50%;
   }
 
@@ -46,4 +48,8 @@ div.container {
     width: 100%;
     display: flex;  
     justify-content: center;
+  }
+
+  .link{
+    text-align: center;
   }
