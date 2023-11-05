@@ -30,6 +30,18 @@ header {
     margin: 1rem 0;
 }
 
+h1, h2, h3 {
+    color: gold;
+}
+
+a {
+    color: red;
+}
+
+a:visited {
+    color: orange;
+}
+
 p {
     color: gold;
     font-size: 1.5rem;
