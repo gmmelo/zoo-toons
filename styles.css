@@ -13,7 +13,7 @@ body {
 }
 
 .image-with-border {
-    border: 5px solid orange;
+    border: 5px solid red;
     
 }
 
@@ -28,6 +28,18 @@ header {
     flex-direction: column;
     align-items: center;
     margin: 1rem 0;
+}
+
+h1, h2, h3 {
+    color: gold;
+}
+
+a {
+    color: red;
+}
+
+a:visited {
+    color: orange;
 }
 
 p {

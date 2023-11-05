@@ -21,11 +21,11 @@ class ZooToonsNavbar extends HTMLElement {
             }
 
             a {
-                color: green;
+                color: lime;
             }
 
             a:visited {
-                color: dark-green;
+                color: green;
             }
         
         </style>
