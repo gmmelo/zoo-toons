@@ -38,6 +38,14 @@ h3{
 div.container {
     text-align: center;
   }
+
+.yellow-text {
+    color: yellow;
+}
+
+.red-text {
+    color: red;
+}
   
   ul.myUL {
     display: inline-block;
@@ -53,3 +61,4 @@ div.container {
   .link{
     text-align: center;
   }
+
